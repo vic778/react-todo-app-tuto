@@ -11,7 +11,7 @@ It is a Single Page App (SPA) that allows users to:
 - Data in this app has been preserved using `localStorage`. 
 ## Live demo link
 
-Live demo [link]()
+Live demo [link](https://vic778.github.io/react-todo-app-tuto/)
 
 ## Screenshot
 
