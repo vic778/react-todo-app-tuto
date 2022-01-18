@@ -97,10 +97,11 @@ To run the CSS linters type the following
 
 ## Authors:
 
-### Author: Khalil Nasri\*\*
+👤 **Victor Barh**
 
-- GitHub: [Khalil Nasri](https://github.com/NasKhalil)
-- Linkedin: [Khalil Nasri](https://www.linkedin.com/in/nasri-khalil-androdev/)
+- GitHub: [@Vvic778](https://github.com/vic778)
+- Twitter: [@victoirBarh](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/victoir-barh)
 
 ## 🤝 Contributing
 
