@@ -1,6 +1,6 @@
 # React todo app
 
-In this project I buit a simple react app wich is "Todo list", this simple web page will be built using react. This app was built according to the steps provided in the [React Tutorial From Scratch: A Step-by-Step Guide (2021)](https://ibaslogic.com/react-tutorial-for-beginners/)
+In this project I buit a simple react app wich is "Todo list", using react. This app was built according to the steps provided in the [React Tutorial From Scratch: A Step-by-Step Guide (2021)](https://ibaslogic.com/react-tutorial-for-beginners/)
 
 It is a Single Page App (SPA) that allows users to:
 
@@ -11,7 +11,7 @@ It is a Single Page App (SPA) that allows users to:
 - Data in this app has been preserved using `localStorage`. 
 ## Live demo link
 
-Live demo [link]()
+Live demo [link](https://vic778.github.io/react-todo-app-tuto/)
 
 ## Screenshot
 
